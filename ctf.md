@@ -27,7 +27,7 @@
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:camera_flash:【2025-10-30T15:14:31】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489444&idx=1&sn=7dcab409dcf754461c2fb303c9cdd97d&scene=27#wechat_redirect)
 

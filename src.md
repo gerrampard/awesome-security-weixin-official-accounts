@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDcwMTAwNw==)
 
-[:camera_flash:【2025-10-31T11:40:50】](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537333&idx=3&sn=eab855e2fc3cf5ee22242f5e816ee265&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-31T11:40:50】](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537333&idx=1&sn=fb6c893169b62b578ea232f5e8c41c71&scene=27#wechat_redirect)
 
 易云科技安全应急响应中心致力于为客户提供及时、专业、高效的威胁情报与应急服务，针对高危漏洞与安全事件进行快速响应，提供可落地的解决方案和安全攻防技术分享。持续专注于源头技术创新、实验室成果实战化、应用技术开发升级，构建新型应急响应创新生态。
 
@@ -27,7 +27,7 @@
 
 ### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:chart_with_upwards_trend:【13/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+[:chart_with_upwards_trend:【12/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
 [:camera_flash:【2025-10-31T15:05:27】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505158&idx=1&sn=4c1fbc2f695da1dde01a521ac39b5815&scene=27#wechat_redirect)
 
